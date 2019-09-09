@@ -11,13 +11,16 @@ body {
 }
 
 
-#home{
+.maison{
 	background: url(aa.jpg) no-repeat center center fixed;
 	display: table;
 	height: 100%;
 	position: relative;
 	width: 100%;
 	background-size: cover;
+	overflow: hidden;
+	min-width: 100%;
+	min-height: 100%;
 }
 
 .btn-primary{
@@ -26,7 +29,7 @@ body {
 }
 
 .h{
-	font-size: 5.5rem !important;
+	font-size: 3.5rem ;
 }
 
 /* menu **/
@@ -105,6 +108,10 @@ p {
 .single_menu_list:hover img {
 	border-radius: 0;
 	transition: .4s;
+}
+
+.gmap_canvas{
+	padding-right: 25px;
 }
 
 /* menu **/
