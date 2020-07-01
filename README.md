@@ -1,3 +1,2 @@
-# bootstrap
-
-site one page pour une pizzaria.
+# Site one page pour une pizzaria.
+https://mouad-becode.github.io/pizzaria/
